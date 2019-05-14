@@ -1,1 +1,1 @@
-This is Java file
+This is new Java file
